@@ -1,2 +1,2 @@
-név:
-osztály:
+név:Zsiros Gergő Dávid
+osztály:9.c
